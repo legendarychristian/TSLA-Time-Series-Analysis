@@ -1,4 +1,4 @@
-### My First Time Series Analysis
+### basic time series analysis on the tesla stock price
 
 this is me just learning the beginnings about machine learning and stocks
 
