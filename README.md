@@ -51,3 +51,11 @@ alas, here are the directions this code is pointing me
   i don't know
 
   i need to figure out where neural nets fit in all of this 
+
+### more things i need to know
+
+  i need to figure out how to tune hyperparemeters for these models 
+
+  need to figure out how to add more features
+
+  need to have an understanding of the types of models and what scenarios they are best used for
