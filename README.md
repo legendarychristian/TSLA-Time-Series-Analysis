@@ -1,4 +1,4 @@
-### header H3 My First Time Series Analysis
+### My First Time Series Analysis
 
 this is me just learning the beginnings about machine learning and stocks
 
@@ -10,7 +10,7 @@ the point is... this is all going to lead to something bigger and greater
 
 alas, here are the directions this code is pointing me
 
-### header H3 (1) models, models, and jessica alba ;)
+### models, models, and jessica alba ;)
 
   i spent a lot of time researching different what a quantative analysist does
   
@@ -32,7 +32,7 @@ alas, here are the directions this code is pointing me
   
   i want HUNDREDS of programs, all using different machine learning algorithms, all looking at different sets of parameters, and all WORKING together to predict whatever i want
 
-### header H3 (2) parameters are power!
+### parameters are power!
 
   feature analysis man that's where the fucking money is. 
 
@@ -40,14 +40,14 @@ alas, here are the directions this code is pointing me
 
   now i just need to find what features i want to test 
 
-### header H3 (3) where do neural nets fit in all of this?
+### where do neural nets fit in all of this?
 
   i have no fucking clue
 
   right now, neural nets and transformers are ALL POWERFUL
 
   so why am i investing time looking at machine learning models?
-
+  
   i don't know
 
   i need to figure out where neural nets fit in all of this 
